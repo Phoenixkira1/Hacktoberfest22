@@ -35,7 +35,7 @@
 6. Open a Pull Request
 ![PR](assets/pullreq.png)
 7. Wait for a morderator to accept you pull request.
-8. Acceptance of four such pull request marks the completion of the challenge.
+8. Acceptance of four such pull request marks the completion of the challenge.tfyguhijokplelfygvwebfjwem][
 
 #### Note
 1. Every problem you solve must have one Issue prior to a Pull request. 
